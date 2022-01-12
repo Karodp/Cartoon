@@ -40,6 +40,7 @@ main img{
 h2{
 	font-size: 30px;
 	color: #DA210A;
+	margin: 40px 0 20px;
 }
 
 a{
@@ -59,4 +60,10 @@ footer{
 
 footer p{
 	margin: 0;
+}
+
+p.caption{
+	color: grey;
+	font-style: italic;
+	margin-top: 0;
 }
